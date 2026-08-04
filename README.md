@@ -79,7 +79,7 @@ An analysis of factors associated with liver fibrosis score using public NHANES 
 ### Doctoral Degree
 
 - Ph.D. in Biotechnology
-- Research background in biotechnology and clinical laboratory science
+- Research background in biotechnology, in vitro diagnostic technologies, and clinical laboratory testing
 
 ### JDLA Deep Learning for ENGINEER
 
@@ -190,7 +190,7 @@ NHANES公開データを用いて、複雑標本デザインと欠損データ�
 ### 博士号
 
 - 生物工学博士
-- 生物工学および臨床検査分野の研究経験
+- 生物工学、体外診断薬の研究開発および臨床検査分野の研究経験
 
 ### JDLA Deep Learning for ENGINEER
 

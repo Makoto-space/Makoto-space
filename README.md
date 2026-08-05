@@ -4,6 +4,8 @@
 
 I specialize in statistical analysis and machine learning for medical, life-science, and public-health data. My work focuses on reproducible Python workflows, Bayesian modeling, complex survey analysis, predictive modeling, visualization, and technical reporting in English and Japanese.
 
+## 🌐 [View My Portfolio Website →](https://makoto-space.github.io/)
+
 ## 1. Name and Professional Title
 
 **Makoto Komori, Ph.D.**  
@@ -114,6 +116,8 @@ An educational and research prototype that combines skin images and questionnair
 **フリーランス医療データサイエンティスト**
 
 医療・生命科学・公衆衛生データを対象として、Pythonによる統計解析、ベイズモデリング、複雑標本解析、予測モデル構築、可視化、日本語・英語の技術レポート作成に取り組んでいます。再現可能で第三者が確認しやすい解析成果物の作成を重視しています。
+
+## 🌐 [ポートフォリオサイトを見る →](https://makoto-space.github.io/)
 
 ## 1. 名前・肩書
 
